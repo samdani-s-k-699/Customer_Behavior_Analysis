@@ -20,17 +20,17 @@ Final insights were visualized using Power BI.
 
 🛠️ Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib/Seaborn)
+- Python (Pandas, NumPy, Matplotlib/Seaborn)
 
-PostgreSQL (SQL queries for analysis)
+- PostgreSQL (SQL queries for analysis)
 
-Power BI (Dashboard & data visualization)
+- Power BI (Dashboard & data visualization)
 
-Jupyter Notebook
+- Jupyter Notebook
 
-pgAdmin
+- pgAdmin
 
-Git & GitHub
+- Git & GitHub
 
 🔍 Project Steps
 1️⃣ Data Loading
